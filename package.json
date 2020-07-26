@@ -1,7 +1,6 @@
 {
   "name": "todo-app",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "client-install": "npm install --prefix todo-list",
@@ -20,5 +19,15 @@
     "express": "^4.17.1",
     "mongoose": "^5.9.25",
     "nodemon": "^2.0.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UMESHRAUT/mern-todo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/UMESHRAUT/mern-todo/issues"
+  },
+  "homepage": "https://github.com/UMESHRAUT/mern-todo#readme",
+  "description": ""
 }
